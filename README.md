@@ -16,6 +16,7 @@ I have made:
 - Python (my most fluent language)
 - C++
 - C
+- Swift / SwiftUI (still learning)
 
 ## More About Me:
 I am a Computer Science student actively pursuing internships to further my career. Outside of Computer Science,
