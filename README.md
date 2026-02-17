@@ -3,7 +3,6 @@ I am:
 - Vince White
 - Student at the **University of Alabama Honors College**
 - Graduating in May 2027
-- Passionate about programming, specifically data analytics and machine learning
 - From Lexington, SC
 
 ## What are my projects?
