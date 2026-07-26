@@ -1,25 +1,29 @@
-## Who am I?
+## WHO AM I?
 I am: 
 - Vince White
 - Student at the **University of Alabama Honors College**
 - Graduating in May 2027
 - From Lexington, SC
 
-## What are my projects?
-I have made:
-- nba_stat_analyzer: A python-based program to look up real world data about NBA teams and players with the NBA API and OpenAI API
-- 2016_finals_simulator_v2: A python-based program that accurately simulates the logic of an NBA game
-- statue_habit_tracker: A gamified habit tracker based in React Native
-
-## What are my strongest skills:
-- Python (my most fluent language)
+## SKILLS:
+### Coding Languages:
+- Python
+- Java
+- JavaScript
 - C++
 - C
-- Swift / SwiftUI (still learning)
+- Swift / SwiftU
+### Other frameworks:
+- React
+- SQL
+- MongoDB
+
+## Experience
+- **Swampfox Technologies Internship**: Used Java, JavaScript, and SQL to learn real-world software engineering principles and concetps
+- **Zip Solver**: Used JavaScript to create a **chrome extension** that automatically solves the LinkedIn Zip puzzle when the GUI is used. 
+  
 
 ## More About Me:
-I am a Computer Science student actively pursuing internships to further my career. Outside of Computer Science,
-I enjoy many forms of exercising (lifting, running, playing sports), hanging out with my friends, reading, watching sports,
-or working other jobs. My contact information is listed below:
+I am actively trying to grow my career in Computer Science. I am open to any opportunities! My contact info is below:
 - vincewhite4@gmail.com
 - www.linkedin.com/in/vince-white-2714b5339
